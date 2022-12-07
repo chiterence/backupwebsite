@@ -1,0 +1,4 @@
+baseURL = 'https://pipisisi.cyou/'
+languageCode = 'en-us'
+title = 'I love combat'
+theme = 'ananke'
